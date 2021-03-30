@@ -349,6 +349,22 @@ footer  {
     line-height: 190%;
 }
 
+/* PROJEK 2 - student hunt*/
+
+.projek2 h3{
+    font-family: 'Kumbh Sans', sans-serif;;
+    font-size: 24px;
+    color: #5465ff;
+}
+
+.projek2 p,
+.projek2 ol li,
+.projek2 ul li{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 18px;
+    color: #565E9F;
+}
+
 
 
 @media  only screen and (max-width: 575.98px) {   
@@ -399,7 +415,11 @@ footer  {
 
     .projek1 p,
     .projek1 ol li,
-    .projek1 ul li{
+    .projek1 ul li,
+    .projek2 p,
+    .projek2 strong,
+    .projek2 ol li,
+    .projek2 ul li{
         font-size: 14px;
     }
 
